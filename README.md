@@ -1,6 +1,7 @@
 # PrimeiroCommit
-H1 Nessa aula colocaremos alguns comandos
-Comando de ajuda:git help
+<p align="center">Nessa aula colocaremos alguns comandos</p>
+<h1 Comando de ajuda:git help
+<h1 Remover arquivo:git rm meu_arquivo.txt
 
 
 
